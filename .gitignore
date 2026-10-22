@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Orga, Folien, Umfragen usw. (alles außer Notebooks) – nicht ins Kurs-Repo
+orga_und_slides/
+
+# Office-Sperrdateien (entstehen, solange eine Datei geöffnet ist)
+~$*
+
+# Sicherheitsnetz, falls solche Dateien außerhalb von orga_und_slides/ landen
+doctemplates-master-powerpoint/
+*.pptx
+*.potx
+*.lss
