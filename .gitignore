@@ -3,6 +3,7 @@
 
 # Orga, Folien, Umfragen usw. (alles außer Notebooks) – nicht ins Kurs-Repo
 orga_und_slides/
+modsi_chatbot/
 
 # Office-Sperrdateien (entstehen, solange eine Datei geöffnet ist)
 ~$*
